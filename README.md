@@ -16,9 +16,9 @@ Complex Oxides, Layered Materials, Multiferroics, Energy storage. (2015-Present)
 Solid electrolytes, electrode-electrolyte interface for all solid state Li-ion battery application. (2010-2014).
 Ab-initio calculations of ground state properties of molecules. (2006-2007).
 
-**Find my previous research:** | 
+**Find my previous research:** | https://santoshkcscience.blogspot.com/p/research.html
 
-**Teaching:** | 
+**Teaching:** https://santoshkcscience.blogspot.com/p/teaching.html| 
 
  
 
