@@ -1,4 +1,5 @@
-
+**Find me at:** 
+| [Linkedin](https://www.linkedin.com/in/santosh-kc-phd-00a0b38/)| [Github](https://github.com/kcantosh) |[Twitter](https://twitter.com/dearsanto) 
 
 <div align="center">
  <img src="https://github.com/kcantosh/mysite1/blob/master/Screen%20Shot%202017-11-24%20at%2010.25.35%20AM.png" width="250" height="200"/><br>
@@ -6,10 +7,7 @@
 </div>
 <br>
 
-**Find me at:** 
-| [Linkedin](https://www.linkedin.com/in/santosh-kc-phd-00a0b38/)| [Github](https://github.com/kcantosh) |[Twitter](https://twitter.com/dearsanto) 
- 
- 
+
  I am a physicist and a material scientist by profession. I have been working on materials modeling for more than 5 years. I am interested in understanding structure-property relationship based on computational methods including Density Functional Theory and beyond. I have been investigating electronic, optical, and magnetic properties of materials for various technological applications including energy storage, electronic, optical, and functional devices..
  
 I am interested in designing the materials with novel properties for various applications based on Density Functional Theory (DFT). Moreover, I go beyond standard DFT to include thermodynamics as well as relevant excited state properties. I provide synthesis routes to the experimental group. In addition, simulating device properties will be every useful for device community. I perform theoretical electronics structures calculations (ARPES), microscopy (STM imaging) and theoretical vibrational spectroscopy (Raman, IR, neutron experiments) in order to get better correlations between the structure and property. This will also greatly help to understand and explain the experimental ﬁndings. I have research experiences in the following areas:
@@ -26,6 +24,7 @@ Ab-initio calculations of ground state properties of molecules. (2006-2007).
 
 
 ***Research Topic 1.*** [***Semiconductor Devices***]
+
 
 
 
