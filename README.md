@@ -2,7 +2,7 @@
 
 <div align="center">
  
- <img src="images/emoticons/cool.png" alt="hi" class="inline"/>
+ <img src="https://github.com/kcantosh/mysite1/blob/master/Screen%20Shot%202017-11-24%20at%2010.25.35%20AM.png"/>
  
    Santosh KC (Ph.D.)<br>
 </div>
