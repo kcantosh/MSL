@@ -2,6 +2,8 @@
 
 <div align="center">
  
+ <img src="images/emoticons/cool.png" alt="hi" class="inline"/>
+ 
    Santosh KC (Ph.D.)<br>
 </div>
 <br>
