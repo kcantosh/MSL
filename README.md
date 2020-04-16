@@ -2,8 +2,7 @@
 | [Linkedin](https://www.linkedin.com/in/santosh-kc-phd-00a0b38/)| [Github](https://github.com/kcantosh) |[Twitter](https://twitter.com/dearsanto) 
 
 <div align="left">
- <img src=Screen Shot 2017-11-24 at 10.25.35 AM.png
-# <img src="https://github.com/kcantosh/mysite1/blob/master/Screen%20Shot%202017-11-24%20at%2010.25.35%20AM.png" width="250" height="200" /><br>
+ <img src="https://github.com/kcantosh/mysite1/blob/master/Screen%20Shot%202017-11-24%20at%2010.25.35%20AM.png" width="250" height="200" /><br>
  
  
     Santosh KC, Ph.D. <br>
