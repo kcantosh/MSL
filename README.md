@@ -4,9 +4,9 @@
 <div align="left">
  <img src="https://github.com/kcantosh/mysite1/blob/master/Screen%20Shot%202017-11-24%20at%2010.25.35%20AM.png" width="250" height="200" /><br>
   
-    Santosh KC, Ph.D. </br>
+ <br>   Santosh KC, Ph.D. </br>
 </div>
-<br>
+
 
 
  I am a physicist and a material scientist by profession. I have been working on materials modeling for more than 5 years. I am interested in understanding structure-property relationship based on computational methods including Density Functional Theory and beyond. I have been investigating electronic, optical, and magnetic properties of materials for various technological applications including energy storage, electronic, optical, and functional devices..
